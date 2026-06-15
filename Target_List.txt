@@ -1,0 +1,115 @@
+Retailer: Target
+
+Set | Product | Type | SKU | URL
+
+Prismatic Evolutions | Elite Trainer Box | ETB | 094300417 | https://www.target.com/p/...
+Prismatic Evolutions | Booster Bundle | Booster Bundle | 094300982 | https://www.target.com/p/...
+Destined Rivals | Booster Box | Booster Box | 091770233 | https://www.target.com/p/..
+
+Target:
+
+Pitch Black | Mega Evolution Pitch Black Booster Bundle | 1011483414 | https://www.target.com/p/zephyr/-/A-1011483414 | 4
+Pitch Black | Mega Evolution Pitch Black Booster Display | https://www.target.com/p/zephyr/A-1011483413 | 4
+Pitch Black | Mega Evolution Pitch Black Elite Trainer Box | 1011483406 | https://www.target.com/p/zephyr/A-1011483406 | 5
+Pitch Black | Mega Evolution Pitch Black Three Booster Blister | https://www.target.com/p/zephyr/-/A-1011483408 | 3
+
+Chaos Rising | Mega Moonlit Tin- Mega Clefable | 1010892073 | https://www.target.com/p/zephyr/-/A-1010892073 | 3
+Chaos Rising | Mega Moonlit Tin- Mega Gengar | 1010892077 | https://www.target.com/p/zephyr/-/A-1010892077 | 3
+Chaos Rising | Mega Greninja ex Premium Collection | 1011209273 | https://www.target.com/p/zephyr/-/A-1011209273 | 3
+Chaos Rising | Mega Evolution Chaos Rising Booster Bundle | 95298172 | https://www.target.com/p/zephyr/-/A-95298172 | 4
+Chaos Rising | Mega Evolution Chaos Rising Three-Booster Blister | 95298174 | https://www.target.com/p/zephyr/-/A-95298174 | 3
+Chaos Rising | Mega Evolution Chaos Rising Elite Trainer Box | 95267143 | https://www.target.com/p/zephyr/-/A-95267143 | 5
+
+Perfect Order | Mega Moonlit Tin- Mega Clefable | 1010892073 | https://www.target.com/p/zephyr/-/A-1010892073 | 3
+Perfect Order | Mega Moonlit Tin- Mega Gengar | 1010892077 | https://www.target.com/p/zephyr/-/A-1010892077 | 3
+Perfect Order | Mega Evolution Perfect Order Booster Bundle | 95230447 | https://www.target.com/p/zephyr/-/A-95230447 | 4
+Perfect Order | Mega Zygarde ex Premium Collection | 95280894 | https://www.target.com/p/zephyr/-/A-95280894 | 3
+Perfect ORder | Mega Evolution Perfect Order 3-Booster Blister | 95230446 | https://www.target.com/p/zephyr/-/A-95230446 | 3
+Perfect Order | Mega Evolution Perfect Order Elite Trainer Box | 95230445 | https://www.target.com/p/zephyr/-/A-95230445 | 5
+
+Partners Series | First Partner Illustration Collection Series 1 | 95225595 | https://www.target.com/p/zephyr/-/A-95225595 | 5
+Partners Series | First Partner Illustration CollectionSeries 2 | 1011209279 | https://www.target.com/p/zephyr/-/A-1011209279 | 5
+
+Ascended Heros | Ascended Heroes Mega Meganium ex Box | 95163305 | https://www.target.com/p/zephyr/-/A-95163305 | 3
+Ascended Heros | Ascended Heroes Booster Bundle | 95120834 | https://www.target.com/p/zephyr/-/A-95120834 | 4
+Ascended Heros | Ascended Heroes Premium Poster Collection Mega Lucario | 95093981 | https://www.target.com/p/zephyr/-/A-95093981 | 3
+Ascended Heros | Ascended Heroes Elite Trainer Box | 95082118 | https://www.target.com/p/zephyr/-/A-95082118 | 5
+Ascended Heros | Ascended Heroes Tech Sticker Collection Gastly | 95120822 | https://www.target.com/p/zephyr/-/A-95120822 | 3
+
+
+Prismatic Evolutions | Prismatic Evolutions Elite Trainer Box | 1011206804https://www.target.com/p/zephyr/-/A-1011206804 | 5
+Prismatic Evolutions | Prismatic Evolutions Poster Collection | 93803457 | https://www.target.com/p/2025-pokemon-scarlet-violet-s8-5-poster-collection/-/A-93803457 | 3
+
+
+151 | Scarlet & Violet 151 Elite Trainer Box | https://www.target.com/p/pokemon-trading-card-game-scarlet-38-violet-151-elite-trainer-box/-/A-88897899 | 5
+151 | 151 Ultra-Premium Collection | 88897906 | https://www.target.com/p/pokemon-trading-card-game-scarlet-38-violet-151-ultra-premium-collection/-/A-88897906 | 4
+151 | 151 Poster Collection | 89444928 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-151-poster-collection/-/A-89444928 | 3
+
+
+Journey Together | Hop’s Zacian ex Box | 1011385025 | https://www.target.com/p/zephyr/-/A-1011385025 | 3
+
+Twilight Masquerade:
+Twilight Masquerade | Twilight Masquerade Booster Bundle | 91619954 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-twilight-masquerade-booster-bundle/-/A-91619954 | 4
+Twilight Masquerade | Charizard ex Super-Premium Collection | 91670547 | https://www.target.com/p/pok-233-mon-trading-card-game-charizard-ex-super-premium-collection/-/A-91670547 | 2
+Twilight Masquerade | Scarlet & Violet— Twilight Masquerade Elite Trainer Box | 91619960 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-twilight-masquerade-elite-trainer-box/-/A-91619960 | 5
+Twilight Masquerade | Twilight Masquerade Three-Booster Blister Revavroom | 91619920 |  https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-twilight-masquerade-three-booster-blister-revavroom/-/A-91619920#lnk=sametab | 3
+Twilight Masquerade | Palafin ex Box | 91619958 | https://www.target.com/p/pok-233-mon-trading-card-game-palafin-ex-box/-/A-91619958 | 3
+Twilight Masquerade | Twilight Masquerade Booster Display | 91619955 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-twilight-masquerade-booster-display/-/A-91619955#lnk=sametab | 4
+
+Temporal Forces | Temporal Forces Elite Trainer Box Walking Wake | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-temporal-forces-elite-trainer-box-walking-wake/-/A-91255505 | 5
+Temporal Forces | Temporal Forces Elite Trainer Box Iron Leaves | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-temporal-forces-elite-trainer-box-iron-leaves/-/A-91255507 | 4
+Temporal Forces | Charizard ex Super-Premium Collection | 91670547 | https://www.target.com/p/pok-233-mon-trading-card-game-charizard-ex-super-premium-collection/-/A-91670547 | 2
+Temporal Forces | Temporal Forces Booster Bundle | 89952655 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-temporal-forces-booster-bundle/-/A-89952655#lnk=sametab | 4
+
+
+Obsidian Flame | Charizard ex Super-Premium Collection | 91670547 | https://www.target.com/p/pok-233-mon-trading-card-game-charizard-ex-super-premium-collection/-/A-91670547 | 3
+Obsidian Flame | Charizard ex Premium Collection | 88897908 | https://www.target.com/p/pok-233-mon-trading-card-game-charizard-ex-premium-collection/-/A-88897908 | 2
+Obsidian Flame | Scarlet & Violet Obsidian Flames Elite Trainer Box | https://www.target.com/p/pokemon-trading-card-game-scarlet-38-violet-obsidian-flames-elite-trainer-box/-/A-89315228 | 5
+Obsidian Flame | Evolving Powers Premium Collection | 89131804 | https://www.target.com/p/pok-233-mon-trading-card-game-evolving-powers-premium-collection/-/A-89131804 | 2
+
+Paldean Fates | Scarlet & Violet— Paldean Fates Elite Trainer Box | 89432659 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-paldean-fates-elite-trainer-box/-/A-89432659 | 5
+Paldean Fates | Scarlet & Violet— Paldean Fates Booster Bundle | 89432660 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-paldean-fates-booster-bundle/-/A-89432660 | 4
+Paldean Fates | Paldean Fates Quaquaval ex Premium Collection | 90593732 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-paldean-fates-quaquaval-ex-premium-collection/-/A-90593732 | 2
+Paldean Fates | Scarlet & Violet— Paldean Fates Tech Sticker Collection Shiny Greavard | 90593717 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-paldean-fates-tech-sticker-collection-shiny-greavard/-/A-90593717 | 3
+
+Paldea Evolved | Scarlet & Violet Paldea Evolved Elite Trainer Box | 88164371 | https://www.target.com/p/pokemon-trading-card-game-scarlet-38-violet-paldea-evolved-elite-trainer-box/-/A-88164371#lnk=sametab | 5
+Paldea Evolved | Evolving Powers Premium Collection | 89131804 | https://www.target.com/p/pok-233-mon-trading-card-game-evolving-powers-premium-collection/-/A-89131804 | 2
+Paldea Evolved | Vaporeon Umbreon Tin Bundle | 89059004 | https://www.target.com/p/pok-233-mon-trading-card-game-vaporeon-umbreon-tin-bundle/-/A-89059004 | 3
+Paldea Evolved | Jolteon Espeon Tin Bundle | 89059014 | https://www.target.com/p/pok-233-mon-trading-card-game-jolteon-espeon-tin-bundle/-/A-89059014#lnk=sametab | 3
+Paldea Evolved | Flareon Syleveon Tin Bundle | 88949021 | https://www.target.com/p/pok-233-mon-trading-card-game-flareon-syleveon-tin-bundle/-/A-88949021#lnk=sametab | 3
+Paldea Evolved | Annihilape ex Box | 88164372 | https://www.target.com/p/pok-233-mon-trading-card-game-annihilape-ex-box/-/A-88164372#lnk=sametab | 3
+Paldea Evolved | Paldea Evolved Three-Booster Blister- Varoom | 89194130 | https://www.target.com/p/zephyr/-/A-89194130 | 3
+
+
+Scarlet & Violet | Scarlet & Violet Booster Bundle | 88275197 | https://www.target.com/p/pokemon-trading-card-game-scarlet-38-violet-booster-bundle/-/A-88275197 | 4
+Scarlet & Violet: Mabosstiff ex Showcase | 89432668 | https://www.target.com/p/zephyr/-/A-89432668 | 3
+Scarlet & Violet | Vaporeon Umbreon Tin Bundle | 89059004 | https://www.target.com/p/pok-233-mon-trading-card-game-vaporeon-umbreon-tin-bundle/-/A-89059004 | 3
+Scarlet & Violet | Jolteon Espeon Tin Bundle | 89059014 | https://www.target.com/p/pok-233-mon-trading-card-game-jolteon-espeon-tin-bundle/-/A-89059014#lnk=sametab | 3
+Scarlet & Violet | Flareon Syleveon Tin Bundle | 88949021 | https://www.target.com/p/pok-233-mon-trading-card-game-flareon-syleveon-tin-bundle/-/A-88949021#lnk=sametab | 3
+
+
+Stellar Crown | Charizard ex Super-Premium Collection | 91670547 | https://www.target.com/p/pok-233-mon-trading-card-game-charizard-ex-super-premium-collection/-/A-91670547 | 2
+Stellar Crown | Terapagos ex Ultra-Premium Collection - Limited Offer | 91670545 | https://www.target.com/p/zephyr/-/A-91670545 | 3
+
+
+Silver Temptest | Sword & Shield - Silver Tempest Elite Trainer Box | 86933412 | https://www.target.com/p/pokemon-trading-card-game-sword-38-shield-silver-tempest-elite-trainer-box/-/A-86933412 | 5
+
+
+Paradox Rift:
+Paradox Rift | Paradox Rift Elite Trainer Box – Iron Valiant | 89603261 | https://www.target.com/p/pok-233-mon-trading-card-game-scarlet-38-violet-8212-paradox-rift-elite-trainer-box-8211-iron-valiant/-/A-89603261#lnk=sametab | 5
+
+Lost Origin:
+Los Origin | Annihilape ex Box | 88164372 | https://www.target.com/p/pok-233-mon-trading-card-game-annihilape-ex-box/-/A-88164372#lnk=sametab | 3
+
+Crown Zenith:
+Crown Zenith | Crown Zenith Tin - Galarian Articuno | 88706346 | https://www.target.com/p/pokemon-trading-card-game-crown-zenith-tin-galarian-articuno/-/A-88706346#lnk=sametab | 5
+
+
+Evolving Skies:
+Evolving Skies | Heroes Tin - Umbreon | 91121945 | https://www.target.com/p/pok-233-mon-trading-card-game-heroes-tin-umbreon/-/A-91121945#lnk=sametab | 5
+Evolving Skies | Heroes Tin - Espeon | 91121944 | https://www.target.com/p/pok-233-mon-trading-card-game-heroes-tin-espeon/-/A-91121944#lnk=sametab | 5
+Evolving Skies | Heroes Tin - Sylveon | 91121943 | https://www.target.com/p/pok-233-mon-trading-card-game-heroes-tin-sylveon/-/A-91121943#lnk=sametab | 5
+
+
+
+
